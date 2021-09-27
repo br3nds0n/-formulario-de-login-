@@ -5,3 +5,9 @@
   <img align="center" alt="rec" src="https://cdn.discordapp.com/attachments/696749484012601344/891343575864983582/gif.gif">
   
 </div>
+
+## 🔧 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
