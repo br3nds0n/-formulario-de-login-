@@ -6,7 +6,7 @@
 
 ## 📘 Sobre
 
-Formulário básico de loguin.
+Formulário básico de login.
 
 ## 🔧 Tecnologias utilizadas
 
